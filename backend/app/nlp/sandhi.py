@@ -11,7 +11,7 @@ class SandhiRule:
         self.description = description
 
 class SandhiEngine:
-    """Rule-based Sanskrit Sandhi splitter and candidate generator. okay"""
+    """Rule-based Sanskrit Sandhi splitter and candidate generator."""
 
     def __init__(self):
         self.rules: List[SandhiRule] = [
