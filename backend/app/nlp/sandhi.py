@@ -14,6 +14,7 @@ class SandhiEngine:
     """Rule-based Sanskrit Sandhi splitter and candidate generator."""
 
     def __init__(self):
+        """Initialize the engine with its deterministic Sandhi rules."""
         self.rules: List[SandhiRule] = [
             # Svara Sandhi (Vowels) - Devanagari & IAST
             # Guna: a/ā + i/ī -> e (e.g. hitopadeśa, narendra)
