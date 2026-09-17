@@ -1,7 +1,5 @@
 # Sanskrit Retrieval Enhancement Platform
 
-Please Review my code
-
 A production-grade, end-to-end **Sanskrit Information Retrieval (IR) Web Application** designed around the core principle: **"Normalize for search, preserve for display."**
 
 ---
